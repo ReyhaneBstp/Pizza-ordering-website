@@ -1,0 +1,637 @@
+{
+  "pizzas": [
+    {
+      "name": "Western",
+      "big": "10",
+      "little": "8",
+      "image": "western.jpg",
+      "ingredients": [
+        "barbecue-Sauce",
+        "Käse",
+        "knuspriger Speck",
+        "Hackfleisch",
+        "Zwiebeln",
+        "cheese",
+        "crispy bacon",
+        "beef",
+        "onion"
+      ]
+    },
+    {
+      "name": "Pepperoni",
+      "big": "7",
+      "little": "5.5",
+      "image": "pepperoni.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "Käse",
+        "Pepperoniwurst",
+        "cheese"
+      ]
+    },
+    {
+      "name": "Hawaii",
+      "big": "10",
+      "little": "8",
+      "image": "hawaii.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "extra Käse",
+        "ananas",
+        "chinken",
+        "cheese",
+        "pineapple"
+      ]
+    },
+    {
+      "name": "Mexican",
+      "big": "15",
+      "little": "10",
+      "image": "mexican.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "extra Käse",
+        "hackfleisch",
+        "Paprika",
+        "Kidneybohnen",
+        "mais",
+        "zwiebeln",
+        "cheese"
+      ]
+    },
+    {
+      "name": "Margherita",
+      "big": "5",
+      "little": "4",
+      "image": "margherita.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "Käse",
+        "tomato sauce",
+        "cheese"
+      ]
+    },
+    {
+      "name": "Mista",
+      "big": "7",
+      "little": "5",
+      "image": "mista.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "Käse",
+        "chinken",
+        "salami",
+        "thunfisch",
+        "champignons"
+      ]
+    },
+    {
+      "name": "Vegetaria",
+      "big": "5",
+      "little": "4",
+      "image": "vegetaria.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "Käse",
+        "zwiebeln",
+        "champignons",
+        "peperoni",
+        "Paprika",
+        "cheese"
+      ]
+    },
+    {
+      "name": "Alfredo",
+      "big": "5",
+      "little": "4",
+      "image": "alfredo.jpg",
+      "ingredients": [
+        "grilled checken",
+        "broccoli",
+        "alfredo sauce"
+      ]
+    },
+    {
+      "name": "Grandioso",
+      "big": "10",
+      "little": "7",
+      "image": "grandioso.jpg",
+      "ingredients": [
+        "tomatensauce",
+        "Käse",
+        "chinken",
+        "salami",
+        "champignons",
+        "Paprika",
+        "zwiebeln",
+        "cheese"
+      ]
+    }
+  ],
+  "appetizers": [
+    {
+      "name": "Daal soup",
+      "price": "5",
+      "image": "daal_soup.jpeg"
+    },
+    {
+      "name": "Mushroom soup",
+      "price": "5",
+      "image": "mushroom-soup.jpg"
+    },
+    {
+      "name": "Veg clear soup",
+      "price": "5",
+      "image": "veg_clear_soup.jpg"
+    },
+    {
+      "name": "Barley soup",
+      "price": "5",
+      "image": "barley_soup.jpg"
+    },
+    {
+      "name": "French fries",
+      "price": "6",
+      "image": "french_fries.jpg"
+    },
+    {
+      "name": "Fried mushrooms",
+      "price": "6",
+      "image": "fried_mushrooms.jpg"
+    },
+    {
+      "name": "Chicken tenders",
+      "price": "8",
+      "image": "chicken_tenders.jpg"
+    },
+    {
+      "name": "Cheesy bread",
+      "price": "5",
+      "image": "cheesy_bread.jpg"
+    },
+    {
+      "name": "Grandioso",
+      "price": "10",
+      "image": "grandioso.jpg"
+    }
+  ],
+  "drinks": [
+    {
+      "name": "Barbecue sauce",
+      "price": "1",
+      "image": "barbecue.jpg"
+    },
+    {
+      "name": "Avocado sauce",
+      "price": "1",
+      "image": "avocado.jpg"
+    },
+    {
+      "name": "Ketchup sauce",
+      "price": "1",
+      "image": "ketchup.jpg"
+    },
+    {
+      "name": "Mayonnaise sauce",
+      "price": "1",
+      "image": "mayonnaise.jpg"
+    },
+    {
+      "name": "Garlic sauce",
+      "price": "1",
+      "image": "garlic.jpg"
+    },
+    {
+      "name": "Sprite soda",
+      "price": "1",
+      "image": "sprite.jpg"
+    },
+    {
+      "name": "Coca cola soda",
+      "price": "1",
+      "image": "coca.jpg"
+    },
+    {
+      "name": "Fanta soda",
+      "price": "1",
+      "image": "fanta.jpg"
+    }
+  ],
+  "column1": [
+    {
+      "name": "Tomato",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Potato",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Parsley",
+      "amount": [
+        "50g",
+        "100g",
+        "200g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Bell pepper",
+      "amount": [
+        "0.5",
+        "1",
+        "2"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Pumpkinr",
+      "amount": [
+        "0.5",
+        "1",
+        "2"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Paprika",
+      "amount": [
+        "0.5",
+        "1",
+        "2"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Garlic",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Onion",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Lettuce",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Cabbage",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    }
+  ],
+  "column2": [
+    {
+      "name": "Pizza Dough",
+      "amount": [
+        "1"
+      ],
+      "price": [
+        "0.3"
+      ]
+    },
+    {
+      "name": "Baguette bread",
+      "amount": [
+        "1",
+        "2"
+      ],
+      "price": [
+        "0.1",
+        "0.2"
+      ]
+    },
+    {
+      "name": "Sandwich bread",
+      "amount": [
+        "1",
+        "2"
+      ],
+      "price": [
+        "0.1",
+        "0.2"
+      ]
+    },
+    {
+      "name": "Cheese",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Mozzarella cheese",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "chicken",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Salami",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Fish",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Lamb meat",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Beef",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    }
+  ],
+  "column3": [
+    {
+      "name": "Sausage",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Bacon",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Bologna",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Pepperoni",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "ّHot dog",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "ّChicken tenders",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "ّFrench fries",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "egg",
+      "amount": [
+        "1",
+        "2",
+        "3"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "Mushroom",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    },
+    {
+      "name": "olive",
+      "amount": [
+        "100g",
+        "200g",
+        "300g"
+      ],
+      "price": [
+        "0.1",
+        "0.2",
+        "0.3"
+      ]
+    }
+  ],
+  "cards": [
+    {
+      "pizzaName": "Western",
+      "bigCount": 1,
+      "littleCount": 0,
+      "bigPrice": "10",
+      "littlePrice": "8",
+      "pizzaImage": "western.jpg",
+      "id": 1
+    },
+    {
+      "pizzaName": "Vegetaria",
+      "bigCount": 1,
+      "littleCount": 0,
+      "bigPrice": "5",
+      "littlePrice": "4",
+      "pizzaImage": "vegetaria.jpg",
+      "id": 2
+    },
+    {
+      "pizzaName": "Western",
+      "bigCount": 2,
+      "littleCount": 0,
+      "bigPrice": "10",
+      "littlePrice": "8",
+      "pizzaImage": "western.jpg",
+      "id": 3
+    }
+  ]
+}
